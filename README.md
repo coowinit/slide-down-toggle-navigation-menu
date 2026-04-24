@@ -77,7 +77,7 @@ Slide-Down-Toggle-JS/
 ### 1. 下载或克隆项目
 
 ```bash
-git clone https://github.com/your-username/slide-down-toggle-navigation-menu.git
+git clone https://github.com/coowinit/slide-down-toggle-navigation-menu.git
 cd slide-down-toggle-navigation-menu
 ```
 
